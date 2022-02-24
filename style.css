@@ -1,0 +1,28 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: rgb(27, 20, 2);
+}
+.name-highlight{
+    color: goldenrod;
+}
+.helf-page{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding-left: 1%;
+}
+.helf-page img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+
+    height: 500px;
+}
